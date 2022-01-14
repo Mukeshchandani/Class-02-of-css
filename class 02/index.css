@@ -1,0 +1,33 @@
+#Font1{
+    @font-face {
+        font-family: 'ChunkFiveRegular';
+        src: url('The Nautigal', cursive);}
+        background-color: indigo;
+        font-style: italic;
+}
+
+#back{
+    background-color: hsl(2, 5, 30%);
+    background-color: hsla(5, 40%, 60, 0.8);
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#design{
+background-color:rgba( 80, 40, 20);
+font-size: 40px;
+font-weight: 700;
+}
+
+#rgb{
+background-color: rgba(20, 30, 10, 0.7);
+}
+
+#rgba{
+font-size: 35px;
+background-color: hsl(15, 20%, 10%);
+}
+
+#hsl{
+    background-color: hsla(30, 97%, 71%, 0.7);
+}
